@@ -1,0 +1,9 @@
+name = "SuS"
+uuid = "8fcc675a-9244-485a-984d-e0c40a29ab85"
+authors = ["Susanne Hipp <Susanne.Hipp@oth-regensburg.de>"]
+version = "0.1.0"
+
+[deps]
+ControlSystems = "a6e380b2-a6ca-5380-bf3e-84a91bcd477e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
